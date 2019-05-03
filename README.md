@@ -1,7 +1,7 @@
 # quiz-app
 SFE students project
 students:
-  1-Mohamed slaha
+  1-MohaMmed Salah apd Elzaher Elsayed
   2-Mohamed Adal
   3-
   4-
